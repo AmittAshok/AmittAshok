@@ -8,4 +8,4 @@ I currently provide support for Microsoft and their products, using Azure as the
 - 📫 How to reach me ...
         connect me with [LinkedIn](https://www.linkedin.com/in/amitt-ashok-505493240)
 
-      ![image (1)](https://github.com/AmittAshok/AmittAshok/assets/124657793/83dea4e3-5355-4c25-b58a-0e912590fd33)
+     
