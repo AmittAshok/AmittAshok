@@ -1,11 +1,31 @@
-👋 Hi, I am Amitt Ashok, an IT Support and Cloud Support Engineer with a passion for becoming a DevOps Engineer.
+# 👋 Hi, I'm Amitt Ashok!
 
-I currently provide support for Microsoft and their products, using Azure as the cloud technology.
+I am a passionate **DevOps Engineer** continuously learning and evolving with new tools and technologies. My journey in tech has been fueled by curiosity and a drive to innovate.
 
-- 👀 I’m interested in reading, completed my AWS certification in year 2022
-- 🌱 I’m currently learning and exploring DevOps and there various tool as Linux, Linux Commands and Git/Github
+- 🌟 **AWS Certified** | Completed certification in 2022
+- 🎯 **Tech Enthusiast** | Exploring cloud, automation, and containerization
+- 🎵 **Hobbyist** | Enjoy reading, cooking, and playing the harmonium
 
-- 📫 How to reach me ...
-        connect me with [LinkedIn](https://www.linkedin.com/in/amitt-ashok-505493240)
+## 🛠️ My Tech Toolbox
+
+- **Cloud Platforms**: AWS
+- **Containers**: Docker, Kubernetes
+- **CI/CD**: Jenkins
+- **Automation**: Terraform, Ansible, Bash scripting
+- **Version Control**: Git, GitHub
+
+## 📖 My Latest Blogs
+I love sharing my learnings with the community. Check out my tech blogs on [Hashnode](https://amittashok.hashnode.dev/).
+
+## 📬 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/amitt-ashok-505493240) | Let's grow our professional network!
+- [GitHub](https://github.com/amittashok) | Explore my projects and contributions
+
+Feel free to reach out for collaborations, discussions, or just a chat over a cup of coffee!
+
+---
+
+*"Continuous learning is the minimum requirement for success in any field."* - Brian Tracy
 
      
